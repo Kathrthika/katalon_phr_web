@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay Online</name>
+   <tag></tag>
+   <elementGuidId>5bd6cda3-82e7-4f20-aac2-01f7ed8f91e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='bookingHospitalOnline']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bookingHospitalOnline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd4aae30-90ce-4f97-b572-bcc9780c2c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bookingHospitalOnline</value>
+      <webElementGuid>cce46d67-12cb-4bec-951f-ead3c03010ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>portal-primary-btn bc-btn-primary ng-star-inserted</value>
+      <webElementGuid>9a3b71b2-7fd9-45af-843d-4f3dc53290e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Online</value>
+      <webElementGuid>97f966be-2b2d-4c3c-a9b5-b308b5c6a068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bookingHospitalOnline&quot;)</value>
+      <webElementGuid>75157cf9-46f9-4913-a556-2c07c2a53522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='bookingHospitalOnline']</value>
+      <webElementGuid>84042754-ca6e-4eca-bf7d-62ba5f0c3e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ocapp-body']/app-booking-confirmation/section[2]/button[2]</value>
+      <webElementGuid>47355daf-8a1c-48ef-bc7a-9f5c55f562f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay at Hospital'])[1]/following::button[1]</value>
+      <webElementGuid>b773a024-3461-48ca-b6a5-9757d614e8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MMI Narayana Multispeciality Hospital, Raipur'])[1]/following::button[2]</value>
+      <webElementGuid>afe67f7a-da1c-46c0-aa80-51b3576d59af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Online']/parent::*</value>
+      <webElementGuid>1e6ec734-ce82-47b2-b444-07d01ceb5fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>468f1dcf-be7a-4129-bd21-d78c93b71b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bookingHospitalOnline' and (text() = 'Pay Online' or . = 'Pay Online')]</value>
+      <webElementGuid>0228ae60-d553-4485-b226-a3525843279c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

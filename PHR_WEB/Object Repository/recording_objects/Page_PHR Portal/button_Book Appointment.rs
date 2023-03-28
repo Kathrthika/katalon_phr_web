@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Book Appointment</name>
+   <tag></tag>
+   <elementGuidId>85d633a8-61c8-4bf9-8271-81a8bc725a2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='bookAppointment'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-footer.portal-modal-footer > #bookAppointment</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc1d5d93-30c2-4026-9bd2-b9b8167eab4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bookAppointment</value>
+      <webElementGuid>adee3e0a-ae3a-401d-931b-b7ba1b839fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>portal-primary-btn portal-btn-medium</value>
+      <webElementGuid>00267b4c-c8f5-45e5-ae5a-45b841552b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Appointment</value>
+      <webElementGuid>5086d318-8e64-490b-8ccc-948c35f98662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered patient-details-window&quot;]/div[@class=&quot;modal-content&quot;]/app-patient-details[1]/div[@class=&quot;modal-footer portal-modal-footer&quot;]/button[@id=&quot;bookAppointment&quot;]</value>
+      <webElementGuid>ee752759-dd8f-4cb8-9a93-9ee824f17c0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='bookAppointment'])[2]</value>
+      <webElementGuid>dd6fc581-6599-4721-81f7-32c05340a70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>da0385cc-61ec-4637-9462-101727b4eee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Appointment'])[2]/following::button[2]</value>
+      <webElementGuid>b157910b-e612-4253-8442-71358d06366f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>fd9287a6-bf21-4e19-b7c4-b43fb6b948af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bookAppointment' and (text() = 'Book Appointment' or . = 'Book Appointment')]</value>
+      <webElementGuid>503c6a37-d95b-44a6-9b46-52843bb52a3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

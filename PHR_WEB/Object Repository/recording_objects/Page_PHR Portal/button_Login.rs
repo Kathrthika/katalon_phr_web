@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>4da36861-2388-47f5-b57f-62e4e679f573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header-nav-bar']/div/div/nav/div/div[2]/span[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.portal-secondary-outline-btn.portal-primary-icon-btn.portal-btn-short</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1acb9a26-3a32-4b39-a428-708602a03a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>portal-secondary-outline-btn portal-primary-icon-btn portal-btn-short</value>
+      <webElementGuid>e462760f-b425-49a1-8323-672b2e576e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>d1a2e5aa-1f6c-4c18-8e41-48e19560c1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-nav-bar&quot;)/div[@class=&quot;header-content&quot;]/div[@class=&quot;web-header&quot;]/nav[1]/div[@class=&quot;py-2 d-flex main-search&quot;]/div[@class=&quot;nav-items&quot;]/span[@class=&quot;nav-item-container&quot;]/button[@class=&quot;portal-secondary-outline-btn portal-primary-icon-btn portal-btn-short&quot;]</value>
+      <webElementGuid>2bd9b5b9-b4e5-4931-b107-0896fea14326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header-nav-bar']/div/div/nav/div/div[2]/span[3]/button</value>
+      <webElementGuid>93eb23b0-3093-4154-a50c-568bb0d44e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN'])[1]/following::button[1]</value>
+      <webElementGuid>37e55172-ab59-448a-ad97-d5309fc0cdce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NH Care +'])[1]/following::button[1]</value>
+      <webElementGuid>574de9a1-8aeb-4e7c-8687-ffb6d6586207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Appointment'])[1]/preceding::button[1]</value>
+      <webElementGuid>de21c702-58ef-4f1b-b41e-34ea94bc98e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Consultation'])[1]/preceding::button[1]</value>
+      <webElementGuid>cb13ef40-e148-42ba-9ef5-b2680fcbb73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>e4aafc66-6a9f-4dcf-9b08-593c69901dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b82df8e3-f2db-4592-b334-ee5e4ed74dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>94207d4c-4cd9-40be-b562-ca33ea4823cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

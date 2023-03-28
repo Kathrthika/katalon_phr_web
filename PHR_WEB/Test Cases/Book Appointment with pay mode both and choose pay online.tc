@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Doctor payment mode should be both in admin portal
+login to phr
+search the same doctor
+select hospital visit appointment
+select the slot
+select the patient 
+click on book appointment
+verify confirmation page
+click on pay online
+select net banking
+select bank and click in success</description>
+   <name>Book Appointment with pay mode both and choose pay online</name>
+   <tag>both_book_appointment_pay_online</tag>
+   <comment></comment>
+   <testCaseGuid>13c670ee-448d-4e13-a372-67acfc8bab60</testCaseGuid>
+</TestCaseEntity>

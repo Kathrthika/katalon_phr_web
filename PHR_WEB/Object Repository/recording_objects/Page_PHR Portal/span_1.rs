@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>c59c2e27-2802-483e-847a-c1b1ab4e9c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.is-highlighted.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5cd31891-3347-4717-88be-e3c920c5dca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-highlighted ng-star-inserted</value>
+      <webElementGuid>bb668269-266c-453a-8a5a-5e0fff9ef087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>01378853-4617-47f4-a314-b38e445e54f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/bs-datepicker-container[@class=&quot;right ng-tns-c70-0 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c70-0 theme-green ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c70-0 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c70-0&quot;]/div[@class=&quot;bs-media-container ng-tns-c70-0 ng-star-inserted&quot;]/bs-days-calendar-view[@class=&quot;ng-tns-c70-0 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-body&quot;]/table[@class=&quot;days weeks&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;is-highlighted ng-star-inserted&quot;]</value>
+      <webElementGuid>1a8ca69d-492b-4cd4-9d4f-67ea24ff23d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[5]</value>
+      <webElementGuid>06aa014f-bb44-450c-8510-ebc8dabec6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[5]</value>
+      <webElementGuid>ae5ef02a-d6a6-4e1d-88d0-e3b838b7b78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>12bf3be6-a1d4-486f-97f1-a22b9fd3074c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/span</value>
+      <webElementGuid>676850bb-a762-46c9-b594-d14a742d3e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>2516a291-660f-45de-be8f-869f6167b8dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

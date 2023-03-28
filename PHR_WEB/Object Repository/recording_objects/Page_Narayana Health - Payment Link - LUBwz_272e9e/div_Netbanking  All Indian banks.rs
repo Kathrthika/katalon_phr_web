@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Netbanking  All Indian banks</name>
+   <tag></tag>
+   <elementGuidId>ad68cc47-36fe-4b1f-b18f-46de0c550738</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-common']/div/div/div/div/div[2]/div/button[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dab89fe0-b219-4196-9dac-91834d355ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svelte-1r0bvhf</value>
+      <webElementGuid>cdc3726e-e9b9-4691-8649-43674d16ea53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Netbanking  All Indian banks </value>
+      <webElementGuid>c1d7ac0d-ade7-436a-ad61-fc1eb5a3b4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-common&quot;)/div[@class=&quot;screen screen-comp svelte-btdjlc redesign-v15 show-scroll&quot;]/div[@class=&quot;screen-main svelte-1ovguqh screen-one-cc&quot;]/div[@class=&quot;solidbg svelte-1ovguqh&quot;]/div[@class=&quot;home-methods svelte-1ovguqh&quot;]/div[@class=&quot;methods-block&quot;]/div[@class=&quot;border-list svelte-2ktngz&quot;]/button[@class=&quot;new-method has-tooltip false svelte-1r0bvhf&quot;]/div[@class=&quot;stack svelte-by96ls horizontal&quot;]/div[@class=&quot;svelte-1r0bvhf&quot;]</value>
+      <webElementGuid>1c763f2e-e2b3-42d2-a884-7cb8e473d18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/recording_objects/Page_Narayana Health - Payment Link - LUBwz_272e9e/iframe_Narayana Health_razorpay-checkout-frame</value>
+      <webElementGuid>9e41f935-9c89-418b-8640-5a7a0675c938</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-common']/div/div/div/div/div[2]/div/button[3]/div/div</value>
+      <webElementGuid>d008c908-effa-404a-b6b3-2a3337c07251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&amp; More'])[1]/following::div[6]</value>
+      <webElementGuid>157247ca-1e84-4264-a70c-f4bfad1d2401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPI / QR'])[1]/following::div[16]</value>
+      <webElementGuid>a6cdd806-6147-4055-a608-760ab17c4af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div/div</value>
+      <webElementGuid>a05f0444-2ac0-4095-a479-909fdbec5b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Netbanking  All Indian banks ' or . = 'Netbanking  All Indian banks ')]</value>
+      <webElementGuid>0dfa2eb4-0491-4599-966e-ca3fd7228f9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

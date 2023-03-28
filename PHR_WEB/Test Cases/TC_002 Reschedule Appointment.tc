@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002 Reschedule Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6f4950e-1de4-41fd-9e61-dd6f877de69f</testCaseGuid>
+</TestCaseEntity>

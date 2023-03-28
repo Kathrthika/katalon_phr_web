@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boo Appointment for new user with new mobile number-Doctor payment mode with both - pay online</description>
+   <name>TC_001 Book Appointment for new user with new mobile number-Doctor payment mode with both - pay online</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78b88002-b9ee-4ce7-a530-960f4f4ca390</testCaseGuid>
+</TestCaseEntity>

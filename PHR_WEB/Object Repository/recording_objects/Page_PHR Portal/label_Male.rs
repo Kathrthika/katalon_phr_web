@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Male</name>
+   <tag></tag>
+   <elementGuidId>b7bb4bb7-7fed-4cb4-82e1-01e711633711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.portal-radio-group > div.portal-radio-box > label.radio-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4a5c7707-d880-41c3-9f9d-e023dfcaf51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>genderMale</value>
+      <webElementGuid>6268152f-1811-4f9f-94ad-85dac3ecc559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-label</value>
+      <webElementGuid>1d62ea05-268c-4a62-9501-285bfe5a81da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Male</value>
+      <webElementGuid>b0fbce47-b8c6-419a-a21b-16bbb69afb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered patient-details-window&quot;]/div[@class=&quot;modal-content&quot;]/app-patient-details[1]/div[@class=&quot;modal-body portal-modal-body&quot;]/form[@class=&quot;patient-details-form ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row form-row&quot;]/div[@class=&quot;form-group col-5&quot;]/div[@class=&quot;portal-radio-group&quot;]/div[@class=&quot;portal-radio-box&quot;]/label[@class=&quot;radio-label&quot;]</value>
+      <webElementGuid>65e04322-0392-4c50-a12a-11ffdc8b486b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[1]</value>
+      <webElementGuid>897e8eef-0777-4b8c-bbf2-6a377289b59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::label[1]</value>
+      <webElementGuid>82cd5fe6-6360-4b2f-a4e7-461656064318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[1]/preceding::label[2]</value>
+      <webElementGuid>83f6f73b-494e-40ba-8c74-d60afad1d57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Male']/parent::*</value>
+      <webElementGuid>1f775476-ffc9-4baa-893b-439366b0fadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/label</value>
+      <webElementGuid>394c5aa0-dac0-4213-844d-3419616353ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Male' or . = 'Male')]</value>
+      <webElementGuid>f5258b43-8c73-4686-be3b-7c808431612e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

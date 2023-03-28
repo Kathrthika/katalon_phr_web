@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(General Medicine)_overlay</name>
+   <tag></tag>
+   <elementGuidId>90ad6ee5-3b8d-4c5b-b80d-8994ba7aee1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header-nav-bar']/div/div/nav/div/div/app-search-bar/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb90646e-c131-4f4d-85b0-488d51d668c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overlay</value>
+      <webElementGuid>ba4c5c87-e7af-41a7-9794-8a4f4e9c808e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-nav-bar&quot;)/div[@class=&quot;header-content&quot;]/div[@class=&quot;web-header&quot;]/nav[1]/div[@class=&quot;py-2 d-flex main-search&quot;]/div[@class=&quot;search-container row m-0 header-search-container&quot;]/app-search-bar[@class=&quot;col-md-6 p-0&quot;]/div[@class=&quot;input-container p-0 position-relative header-input-container&quot;]/div[@class=&quot;overlay&quot;]</value>
+      <webElementGuid>019bf7d3-02eb-4a1a-8b26-d93a87bb96f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header-nav-bar']/div/div/nav/div/div/app-search-bar/div/div[2]</value>
+      <webElementGuid>b742285e-372f-4866-bc54-0ea51758bddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-search-bar/div/div[2]</value>
+      <webElementGuid>43ecb2e3-2acb-431c-9ed1-f38360f39981</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
